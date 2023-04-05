@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.black,
         title: Center(
-          child: Text('Dice App'),
+          child: Text('DICE Misal'),
         ),
       ),
     );
